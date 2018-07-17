@@ -1,0 +1,11 @@
+baseURL = "https://hazyblue.me/"
+languageCode = "en-us"
+title = "Open To Interpretation"
+theme = "vienna"
+
+[params]
+	# Social accounts
+	twitter = "hazybluedot"
+	github = "hazybluedot"
+	author = "Darren"
+	bio = ""
