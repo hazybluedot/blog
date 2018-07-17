@@ -1,0 +1,12 @@
+[submodule "themes/ananke"]
+	path = themes/ananke
+	url = https://github.com/budparr/gohugo-theme-ananke.git
+[submodule "themes/cleanwhite"]
+	path = themes/cleanwhite
+	url = https://github.com/zhaohuabing/hugo-theme-cleanwhite
+[submodule "themes/hugo-initio"]
+	path = themes/hugo-initio
+	url = https://github.com/miguelsimoni/hugo-initio.git
+[submodule "themes/vienna"]
+	path = themes/vienna
+	url = https://github.com/keichi/vienna
