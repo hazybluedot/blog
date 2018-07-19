@@ -4,6 +4,7 @@ title = "Open To Interpretation"
 theme = "vienna"
 
 [params]
+        image = "/images/fiske_banner.jpg"
 	# Social accounts
 	twitter = "hazybluedot"
 	github = "hazybluedot"
